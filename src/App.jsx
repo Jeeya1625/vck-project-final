@@ -1,6 +1,6 @@
 
 import './App.css';
-import ChatbotComponent from './components/ChatBot/ChatbotComponent';
+import ChatbotComponent from './components/Chatbot/ChatbotComponent';
 import DeveloperInfoPopup from './components/DeveloperInfo/DeveloperInfoPopup';
 import AboutPage from './pages/AboutPage';
 import AdmissionPage from './pages/AdmissionPage';
